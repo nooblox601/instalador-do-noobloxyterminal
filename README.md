@@ -13,7 +13,7 @@ Descreva brevemente o propósito do seu projeto aqui.
 
 ## Uso
 
-@echo off
+"@echo off
 REM Script para baixar e extrair repositório GitHub como ZIP (Windows)
 
 REM Defina a URL do repositório (altere se necessário)
