@@ -30,7 +30,7 @@ REM Opcional: Excluir o ZIP após extração
 del %ZIP_NAME%
 
 echo Pronto! Os arquivos foram extraídos para a pasta repo_extraido.
-pause
+pause"
 
 ou.....
 
@@ -62,3 +62,4 @@ Certifique-se de atualizar os testes conforme necessário.
 ## Licença
 
 [MIT](LICENSE)
+# obrigado or ler ate aqui lol
